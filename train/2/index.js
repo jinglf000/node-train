@@ -1,3 +1,4 @@
+/* md5加密 */
 const Koa = require('koa');
 const utils = require('utility');
 const logger = require('koa-logger');
