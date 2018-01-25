@@ -1,4 +1,4 @@
-/* benchmark 基准测试 谁跑的快测试 */
+/* benchmark 基准测试 谁跑的快测试 performance 性能测试*/
 
 var Beechmark = require('benchmark');
 var suit = new Beechmark.Suite;
